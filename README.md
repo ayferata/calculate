@@ -23,7 +23,5 @@ public class KdvCalculate {
             System.out.println("Hatali veya eksik tutar girdiniz");
         }
 
-
-
     }
 }
