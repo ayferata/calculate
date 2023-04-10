@@ -5,7 +5,7 @@ public class KdvCalculate {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         double amount,kdvRate=0.18;
-        System.out.print("Urun tutarini giriniz:");
+        System.out.print("Urun tutarini giriniz: ");
         amount = input.nextDouble();
         if(0<amount && amount<1000)
         {
